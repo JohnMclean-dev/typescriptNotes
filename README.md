@@ -13,4 +13,6 @@ create a filename with the extension "ts". When you want to test the code compil
 i.e. tsc index.ts
 
 ## customizing compiler
-By default ts will compile to es3 which drops support of features like async await. Compile options can be edits by adding a tsconfig.json file to the project (or in the terminal directly). 
+By default ts will compile to es3 which drops support of features like async await. Compile options can be edits by adding a tsconfig.json file to the project (or in the terminal directly).
+
+## declaring variables
