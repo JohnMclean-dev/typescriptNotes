@@ -15,4 +15,8 @@ i.e. tsc index.ts
 ## customizing compiler
 By default ts will compile to es3 which drops support of features like async await. Compile options can be edits by adding a tsconfig.json file to the project (or in the terminal directly).
 
-## declaring variables
+## benefits of typscripts
+Catches errors while writing code opposed to when testing code. Enables implicit and explicit methods of defining data types for variables. Adds tuples as a data type.
+
+## sources
+https://www.youtube.com/watch?v=ahCwqrYpIuM
