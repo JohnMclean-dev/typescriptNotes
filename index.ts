@@ -1,1 +1,3 @@
-console.log('hellow world')
+async function hello() {
+    return 'world'
+}
